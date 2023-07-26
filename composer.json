@@ -1,5 +1,5 @@
 {
-  "name": "roots/bedrock",
+  "name": "10corp/wp",
   "type": "project",
   "license": "MIT",
   "description": "WordPress boilerplate with Composer, easier configuration, and an improved folder structure",
@@ -17,7 +17,7 @@
     }
   ],
   "keywords": [
-    "bedrock", "composer", "roots", "wordpress", "wp", "wp-config"
+    "wp", "composer", "roots", "wordpress", "wp", "wp-config"
   ],
   "support": {
     "issues": "https://github.com/roots/bedrock/issues",
